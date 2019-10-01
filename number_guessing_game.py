@@ -21,7 +21,7 @@ def main():
         print("Correct! My number was", number)
 
     # process
-    if guess != number:
+    else:
         # output
         print()
         print("Sorry. Better luck next time")
